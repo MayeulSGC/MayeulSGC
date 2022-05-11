@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayeulSGC
-- 👀 I’m interested in Machine learning, quantitative finance, algorithmic finance 
+- 👀 I’m interested in Machine learning, quantitative finance, algorithmic finance and cyber security
 - 🌱 I'm always interested in learning new stuff
 
 
